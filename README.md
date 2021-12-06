@@ -21,3 +21,7 @@ python3 main.py
 ```
 pip install pygame
 ```
+
+### Credits
+
+- [Codebasics](https://www.youtube.com/c/codebasics)
